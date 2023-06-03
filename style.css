@@ -1,0 +1,139 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.685) !important;
+}
+.nav-link
+{
+    color: white !important;
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
+.meet
+{
+    
+    color: purple;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 5px brown;
+    padding-top: 8px;
+}
+.cards
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-right: 5rem;
+    justify-content: space-around; 
+    margin-left: 7rem;  
+}
+.card
+{
+    margin-top: 10px;
+    color:black ;
+    font-weight: bold;
+}
+.btn
+{
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+}
+.prints
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 4rem;
+    
+}
+.print1
+{
+    margin-left: 4rem;
+
+}
+.print1 div button 
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.print1 button
+{
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    width: 40%;
+    height: 40px;
+    font-size: 18px;
+}
+.marqee
+{
+    width: 80rem;
+    height: 30px;
+    margin-top: .5rem;
+    font-weight: bold;
+    background-color: skyblue;
+    padding-left: 4rem;
+    
+}
+.marquree
+{
+    margin-left: 8rem;
+}
+.footer
+{
+    text-align: center;
+    background-color:rgb(88, 86, 86);
+    color: white;
+}
+.footer img
+{
+    margin:3rem; 
+}
+.narrow
+{
+    margin:1.5rem auto;
+    width: 75%;
+    padding-top: 2rem;
+}
+.narrow h1
+{
+font-size: 2.4rem;
+}
+.btn-secondary
+{
+    border-width: medium;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1.2rem; 
+    padding: .6rem 1.2rem;
+    margin: 1rem;
+    color: white;
+    background-color: #1ebba3;
+    border-color:#1ebba3 ;
+}
+.btn-secondary:hover
+{
+    background-color: #189582;
+    border-color:#189582;
+}
+.heading
+{
+    width: 100%;
+    height: .2rem;
+    background-color: #1ebba3;
+    margin: .5rem .5rem;
+}
+.copy
+{
+    margin-top: 1.2rem;
+    padding-bottom: 1.2rem;
+}
+
+
+
+
